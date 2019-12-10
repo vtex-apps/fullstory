@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "checkout-fullstory",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "title": "Checkout IO Fullstory",
   "description": "Checkout IO FullStory",
   "builders": {
