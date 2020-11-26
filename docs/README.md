@@ -2,6 +2,8 @@
 
 # VTEX FULLSTORY IDENTIFICATION
 
+⚠️⚠️ **This is an ongoing, unsupported, unfinished and undocumented project. We do not guarantee any results after installation, use it at your own risk.** ⚠️⚠️
+
 This app injects the Fullstory script to the Checkout IO pages.
 
 <!-- DOCS-IGNORE:start -->
